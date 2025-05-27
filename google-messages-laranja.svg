@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Corpo do balão de fala -->
+  <path fill="#fb8c4c" d="M467 61H45c-24.8 0-45 20.2-45 45v256c0 24.8 20.2 45 45 45h315.1L467 496V106c0-24.8-20.2-45-45-45z"/>
+
+  <!-- Linha 1 -->
+  <rect x="96" y="160" width="320" height="32" rx="8" fill="#f07b39"/>
+
+  <!-- Linha 2 -->
+  <rect x="96" y="224" width="320" height="32" rx="8" fill="#e66b28"/>
+
+  <!-- Linha 3 -->
+  <rect x="96" y="288" width="256" height="32" rx="8" fill="#d75c18"/>
+</svg>
